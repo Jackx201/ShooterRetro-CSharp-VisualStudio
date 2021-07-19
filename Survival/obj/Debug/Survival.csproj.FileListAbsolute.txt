@@ -1,0 +1,29 @@
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\bin\Debug\Survival.exe
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\bin\Debug\Survival.pdb
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.Form1.resources
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.exe
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.pdb
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.Survive.resources
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\Survival\Survival\obj\Debug\Survival.csproj.ResolveComReference.cache
+D:\Documentos\C#\Space Survival\Release\Survival\bin\Debug\Survival.exe
+D:\Documentos\C#\Space Survival\Release\Survival\bin\Debug\Survival.pdb
+D:\Documentos\C#\Space Survival\Release\Survival\bin\Debug\Interop.WMPLib.dll
+D:\Documentos\C#\Space Survival\Release\Survival\bin\Debug\AxInterop.WMPLib.dll
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.csprojAssemblyReference.cache
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Interop.WMPLib.dll
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\AxInterop.WMPLib.dll
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.csproj.ResolveComReference.cache
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.Properties.Resources.resources
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.Survive.resources
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.csproj.GenerateResource.cache
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.exe
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.pdb
+D:\Documentos\C#\Space Survival\Release\Survival\obj\Debug\Survival.Form1.resources
